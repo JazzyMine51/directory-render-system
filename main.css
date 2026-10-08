@@ -1,0 +1,10 @@
+html {
+    background-color: #FAF6CE;
+    color: #191624;
+    font-family: "Roboto Mono", monospace;
+    font-weight: bolder;
+}
+
+.animate {
+    white-space: pre-wrap;
+}
